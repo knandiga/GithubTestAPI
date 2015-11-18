@@ -1,2 +1,2 @@
-# akamai-api
-Akamai Open API
+# github-api
+Github APi
